@@ -1,1 +1,1 @@
-This is my internship project that is being assigned to me by 'Unified Mentor' Waiting for their evaluation.
+These are my internship project that is being assigned to me by 'Unified Mentor'. Now, Waiting for their evaluation.
